@@ -28,8 +28,8 @@ public class Square {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int x=4;
-		int a= mySqrt(8);
-		System.out.print(a);
+		int b= mySqrt(8);
+		System.out.print(b);
 	}
 
 }
